@@ -1,0 +1,45 @@
+﻿Dia 13/04/2015.
+
+################ A SOLICITAÇÃO DO CLIENTE ###################
+Boa noite senhores.
+
+O grupo HTML5, CSS3 e Javascript para iniciantes, foi contratado para desenvolver o site da empresa Total Esportes Radicias LTDA, especializada em esportes radicais.
+O cliente já definiu as páginas do site, são elas: Index, Sobre, Artigos, Pacotes, Contato e solicitou um protótipo com a ferramenta MOQUPS (moqups.com).
+O objetivo do site é:
+
+1- Apresentar a empresa;
+2- Apresentar os pacotes de esportes radicais;
+3- Facilitar o contato com os clientes; 
+
+O cliente irá validar o layout de cada página na próxima 4ª feira dia 15/04/2015.
+
+################ TAREFA: CRIAR PROTÓTIPOS ###################
+
+O que e como fazer?
+- CRIAR conta no MOQUPS moqups.com;
+- CRIAR um projeto;
+- DISPONIBILIZAR o LINK do projeto no seu repositório GITHUB em um arquivo txt;
+- CRIAR o protótipo de todas as páginas do site;
+
+################ DICAS ÚTEIS ###################
+
+- Imagens 01 e 02 -> Moqups: Criar um novo Projeto;
+- Imagem 03 -> Configurações da página: Width: 960, Height: 700 (Se precisar aumentar a altura, faça), Grid: 960 GS - 12 Col. Procure usar as colunas como guia.
+- Imagem 04 -> Mostra a opção de adicionar página. A esquerda, temos a ferramenta de desenho.
+- Imagem 05 -> Mostra o link do projeto (você vai precisar dele para compartilhar com a gente) e preview da página.
+- Imagem 06 -> Como é o preview;
+- Imagem 07 -> Apenas um modelo simples de protótipo.
+
+################ APRENDIZADO ###################
+
+- Desenvolver habilidades com uma nova ferramenta: MOQUPS;
+- Prever e preparar uma estrutura básica de um site;
+- Desenvolver a disposição das informações do cliente;
+- Ter a capacidade de apresentar ao cliente um prévia do que foi solicitado.
+
+
+Meus contatos:
+
+Skype: vagnerjsmello@hotmail.com
+facebook: fb.com/vagnerjsmello
+WhatsApp: 21-981353672
